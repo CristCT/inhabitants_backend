@@ -10,9 +10,9 @@ use is made of Spring Boot + JPA + PostgresSQL + Rest + Angular
 
 For building and running the application you need:
 
-[JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-[Gradle 2.7](https://gradle.org/)
-[PostgreSQL](https://www.postgresql.org/)
+- [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [Gradle 2.7](https://gradle.org/)
+- [PostgreSQL](https://www.postgresql.org/)
 
 You will need to setup your own database or create a database with the following configuration
 
@@ -28,15 +28,17 @@ There are several ways to run a Spring Boot application on your local machine. O
 
 Alternatively you can use the [Spring Boot Gradle plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins.html#build-tool-plugins.gradle) like so:
 
-`gradle bootRun`
+```
+gradle bootRun
+```
 
 ## Running port
 
-default spring boot config http://localhost:8080/
+- default spring boot config http://localhost:8080/
 
 ## Swagger url
 
-default swagger url http://localhost:8080/swagger-ui/
+- default swagger url http://localhost:8080/swagger-ui/
 
 ## About this project
 
