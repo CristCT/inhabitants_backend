@@ -1,4 +1,6 @@
-# Inhabitants backend (Code in Master branch, but read these instructions first)
+# Inhabitants backend
+
+Code in Master branch, but read these instructions first
 
 this project was made with [SpringBoot](https://spring.io/)
 
